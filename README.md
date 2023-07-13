@@ -1,4 +1,4 @@
-ocs:# Ignite Call
+# Ignite Call
 
 This is a FullStack project integrated with Google Calendar to create schedules.
 
